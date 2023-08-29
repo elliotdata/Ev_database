@@ -154,10 +154,11 @@ FROM electric_vehicles
 WHERE make = 'Tesla';
 
 /* Range of Tesla Models */
-SELECT model, MIN(range_miles) AS min_range, MAX(range_miles) AS max_range
+SELECT model, range_miles AS max_range
 FROM electric_vehicles
 WHERE make = 'Tesla'
-GROUP BY model;
+GROUP BY model
+ORDER BY max_range DESC;
 
 /* Top speed of Tesla Models */
 SELECT model, MAX(top_speed) AS max_top_speed
