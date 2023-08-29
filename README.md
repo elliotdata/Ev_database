@@ -6,9 +6,7 @@ The dataset includes information about various attributes of electric vehicles s
 
 The SQL queries provide insights into:
 
-- Data overview and shape
-- Missing values assessment
-- Distinct values of car makes
+- Data overview
 - Top manufacturers and market segments
 - Stats for battery capacity, acceleration, top speed, and range
 - Pricing analysis across countries
