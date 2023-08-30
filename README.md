@@ -12,8 +12,8 @@ The SQL queries provide insights into:
 - Pricing analysis across countries
 - Focused analysis on Tesla models
 
-For more details please refer to my portfolio page -(https://paulpagefolio.framer.ai/blog/eda-ev-database).
+For more details please refer to my portfolio page - https://paulpagefolio.framer.ai/blog/eda-ev-database
 
 ## Dataset Source
 
-The dataset used in this analysis is sourced from [https://ev-database.org/]
+The dataset used in this analysis is sourced from [https://ev-database.org/]. Use with permission.
