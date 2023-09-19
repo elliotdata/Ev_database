@@ -11,6 +11,7 @@ The SQL queries provide insights into:
 - Stats for battery capacity, acceleration, top speed, and range
 - Pricing analysis across countries
 - Focused analysis on Tesla models
+- Created an Interactive dashboard on Power BI
 
 For more details please refer to my portfolio page - https://paulpagefolio.framer.ai/blog/eda-ev-database
 
